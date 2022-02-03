@@ -1,1 +1,1 @@
-# EECS-1022
+# Android App Project: EECS-1022
